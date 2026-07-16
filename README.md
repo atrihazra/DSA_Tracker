@@ -8,6 +8,7 @@ Progress tracked here by me
 | ------- |
 | [0268-missing-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atrihazra/DSA_Tracker/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/atrihazra/DSA_Tracker/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
