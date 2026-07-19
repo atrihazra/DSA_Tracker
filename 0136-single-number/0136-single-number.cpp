@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        unordered_map<int, int> hash;
+
+        // Count frequency
+        for (int i = 0; i < nums.size(); i++) {
+            hash[nums[i]]++;
+        }
+
+        // Find element with frequency 1
+        for (int i = 0; i < nums.size(); i++) {
+            if (hash[nums[i]] == 1)
+                return nums[i];
+        }
+
+        return -1;
+    }
+};
