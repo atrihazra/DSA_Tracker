@@ -7,6 +7,7 @@ Progress tracked here by me
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atrihazra/DSA_Tracker/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/atrihazra/DSA_Tracker/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atrihazra/DSA_Tracker/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@ Progress tracked here by me
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/atrihazra/DSA_Tracker/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/atrihazra/DSA_Tracker/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
