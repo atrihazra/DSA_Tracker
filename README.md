@@ -11,6 +11,7 @@ Progress tracked here by me
 | [0075-sort-colors](https://github.com/atrihazra/DSA_Tracker/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/atrihazra/DSA_Tracker/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/atrihazra/DSA_Tracker/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atrihazra/DSA_Tracker/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/atrihazra/DSA_Tracker/tree/master/0485-max-consecutive-ones) |
@@ -25,6 +26,7 @@ Progress tracked here by me
 | ------- |
 | [0001-two-sum](https://github.com/atrihazra/DSA_Tracker/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/atrihazra/DSA_Tracker/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/atrihazra/DSA_Tracker/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ Progress tracked here by me
 | ------- |
 | [0075-sort-colors](https://github.com/atrihazra/DSA_Tracker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/atrihazra/DSA_Tracker/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/atrihazra/DSA_Tracker/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -53,4 +56,5 @@ Progress tracked here by me
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/atrihazra/DSA_Tracker/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/atrihazra/DSA_Tracker/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
