@@ -57,4 +57,8 @@ Progress tracked here by me
 | ------- |
 | [0169-majority-element](https://github.com/atrihazra/DSA_Tracker/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/atrihazra/DSA_Tracker/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/atrihazra/DSA_Tracker/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
