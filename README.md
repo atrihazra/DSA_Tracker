@@ -11,6 +11,7 @@ Progress tracked here by me
 | [0075-sort-colors](https://github.com/atrihazra/DSA_Tracker/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/atrihazra/DSA_Tracker/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/atrihazra/DSA_Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/atrihazra/DSA_Tracker/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/atrihazra/DSA_Tracker/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ Progress tracked here by me
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/atrihazra/DSA_Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/atrihazra/DSA_Tracker/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -66,5 +68,10 @@ Progress tracked here by me
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/atrihazra/DSA_Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/atrihazra/DSA_Tracker/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/atrihazra/DSA_Tracker/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
